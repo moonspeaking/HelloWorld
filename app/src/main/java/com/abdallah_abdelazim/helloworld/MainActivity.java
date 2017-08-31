@@ -43,11 +43,11 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_get_source_code) {
-            openWebPage("https://github.com/Abdallah-Abdelazim/HelloWorld");
+            openWebPage(getString(R.string.url_source_code));
             return true;
         }
         else if (id == R.id.action_trainig) {
-            openWebPage("https://developer.android.com/training/index.html");
+            openWebPage(getString(R.string.url_training));
             return true;
         }
 

@@ -1,0 +1,1 @@
+This repository contains the source code for "Hello World!" Android application published on the Google Play Store.
