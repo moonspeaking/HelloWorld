@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="action_get_source_code">Get Source Code</string>
+    <string name="action_training">Take me to Google Android Training</string>
+    <string name="button_click_me">CLICK ME</string>
+    <string name="hello_world">Hello World!</string>
+</resources>

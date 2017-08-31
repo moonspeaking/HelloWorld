@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.abdallah_abdelazim.helloworld.MainActivity">
+    <item
+        android:id="@+id/action_get_source_code"
+        android:title="@string/action_get_source_code" />
+    <item
+        android:id="@+id/action_trainig"
+        android:title="@string/action_training" />
+</menu>
