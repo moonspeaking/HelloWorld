@@ -4,8 +4,9 @@
     tools:context="com.abdallah_abdelazim.helloworld.MainActivity">
     <item
         android:id="@+id/action_get_source_code"
-        android:title="@string/action_get_source_code" />
+        android:title="@string/action_get_source_code"
+        app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/action_trainig"
+        android:id="@+id/action_training"
         android:title="@string/action_training" />
 </menu>
