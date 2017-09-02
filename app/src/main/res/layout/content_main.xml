@@ -12,13 +12,15 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="112dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        app:layout_constraintLeft_toLeftOf="@+id/button"
-        app:layout_constraintRight_toRightOf="@+id/button"
-        android:layout_marginBottom="112dp"
+        android:textSize="30sp"
+        android:textStyle="italic"
         app:layout_constraintBottom_toTopOf="@+id/button"
-        app:layout_constraintHorizontal_bias="0.507" />
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintLeft_toLeftOf="@+id/button"
+        app:layout_constraintRight_toRightOf="@+id/button" />
 
     <Button
         android:id="@+id/button"
