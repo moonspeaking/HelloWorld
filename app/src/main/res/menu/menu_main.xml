@@ -4,6 +4,7 @@
     tools:context="com.abdallah_abdelazim.helloworld.MainActivity">
     <item
         android:id="@+id/action_get_source_code"
+        android:icon="@drawable/ic_github_circle"
         android:title="@string/action_get_source_code"
         app:showAsAction="ifRoom" />
     <item
